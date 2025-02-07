@@ -18,7 +18,7 @@ sections:
   - type: TextSection
     colors: colors-f
     variant: variant-b
-    title: The Section Title
+    title: About Us
     subtitle: The section subtitle
     text: >-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
