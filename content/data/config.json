@@ -12,7 +12,7 @@
                 "type": "Link",
                 "label": "About Us",
                 "url": "/info",
-                "showIcon": true
+                "showIcon": false
             }
         ],
         "socialLinks": [],
