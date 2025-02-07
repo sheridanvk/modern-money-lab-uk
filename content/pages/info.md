@@ -7,7 +7,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: |+
-      ##
+      #
 
     media:
       type: ImageBlock
