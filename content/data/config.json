@@ -61,12 +61,6 @@
                 "label": "Contact",
                 "url": "mailto:thisismyemail.@myemail.me",
                 "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
-                "altText": "Netlify templates"
             }
         ],
         "contacts": {
