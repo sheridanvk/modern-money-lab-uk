@@ -9,7 +9,7 @@ sections:
     subtitle: ''
     text: >
       Watch this space for details of a conference in Bristol on 12-13 September
-      2005: "Anything we can actually do, we can afford: Debunking money myths
+      2025: "Anything we can actually do, we can afford: Debunking money myths
       to end austerity in the UK"
     elementId: ''
     styles:
