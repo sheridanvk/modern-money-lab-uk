@@ -6,7 +6,7 @@
         "headerVariant": "variant-c",
         "isSticky": false,
         "title": "Modern Money Lab UK",
-        "isTitleVisible": false,
+        "isTitleVisible": true,
         "primaryLinks": [
             {
                 "type": "Link",
