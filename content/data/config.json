@@ -16,7 +16,7 @@
             },
             {
                 "type": "Link",
-                "label": "Learn more",
+                "label": "Events",
                 "altText": "",
                 "url": "/events",
                 "showIcon": false,
