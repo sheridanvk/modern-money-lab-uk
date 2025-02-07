@@ -1,7 +1,7 @@
 ---
 type: PageLayout
 title: About
-colors: colors-a
+colors: colors-b
 sections:
   - elementId: ''
     colors: colors-f
