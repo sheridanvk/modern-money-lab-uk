@@ -82,10 +82,4 @@ sections:
         label: C++
       - type: Label
         label: Swift
-  - type: TextSection
-    variant: variant-a
-    subtitle: 'Contact:'
-    colors: colors-f
-    text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
 ---
