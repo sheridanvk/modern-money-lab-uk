@@ -11,7 +11,7 @@
             {
                 "type": "Link",
                 "label": "About Us",
-                "url": "/about-us"
+                "url": "/info"
             }
         ],
         "socialLinks": [],
