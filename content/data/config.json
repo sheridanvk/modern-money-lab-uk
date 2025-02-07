@@ -1,6 +1,6 @@
 {
     "type": "Config",
-    "favicon": "/images/favicon.svg",
+    "favicon": "/images/MML_UK_logo.png",
     "header": {
         "type": "Header",
         "headerVariant": "variant-b",
