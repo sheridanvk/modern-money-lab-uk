@@ -21,7 +21,7 @@ sections:
     images:
       - type: ImageBlock
         url: /images/sheridan_headshot_cropped.jpg
-        altText: Logo one
+        altText: 'Image of Sheridan Kates, in front of some plants'
         caption: Sheridan Kates
       - type: ImageBlock
         url: /images/logo2.svg
