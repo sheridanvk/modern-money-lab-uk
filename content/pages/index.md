@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Home
+title: Modern Money Lab UK
 colors: colors-b
 sections:
   - elementId: ''
