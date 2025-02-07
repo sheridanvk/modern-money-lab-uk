@@ -16,7 +16,7 @@ sections:
         borderWidth: 1
         borderStyle: solid
   - type: TextSection
-    colors: colors-f
+    colors: colors-b
     variant: variant-b
     title: About Us
     subtitle: ''
