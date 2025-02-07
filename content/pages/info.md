@@ -3,41 +3,6 @@ type: PageLayout
 title: About
 colors: colors-b
 sections:
-  - elementId: ''
-    colors: colors-f
-    backgroundSize: full
-    text: |+
-      #
-
-    media:
-      type: ImageBlock
-      url: /images/about.jpg
-      altText: Hero image
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-16
-          - pb-12
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    type: HeroSection
-    title: About Us
   - type: DividerSection
     styles:
       self:
