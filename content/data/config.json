@@ -89,7 +89,7 @@
             "email": "hello@modernmoneylab.org.uk",
             "emailAltText": "Email address for Modern Money Lab UK",
             "address": "",
-            "addressAltText": "My address"
+            "addressAltText": ""
         },
         "copyrightText": "Powered by [Netlify](https://www.netlify.com/)",
         "styles": {
