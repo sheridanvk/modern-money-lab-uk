@@ -5,7 +5,7 @@ colors: colors-b
 sections:
   - type: TextSection
     colors: colors-b
-    variant: variant-b
+    variant: variant-a
     title: About Us
     subtitle: ''
     text: |
