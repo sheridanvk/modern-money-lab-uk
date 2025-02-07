@@ -12,11 +12,6 @@
                 "type": "Link",
                 "label": "About Us",
                 "url": "/about-us"
-            },
-            {
-                "type": "Link",
-                "label": "Blog",
-                "url": "/blog"
             }
         ],
         "socialLinks": [],
