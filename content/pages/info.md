@@ -21,9 +21,7 @@ sections:
     title: About Us
     subtitle: ''
     text: |+
-      Modern Money Lab UK are:
-
-      *   Susan Borden
+      <div style="text-align: left">Modern Money Lab UK are:*   Susan Borden
 
       *   Rachel Earnshaw
 
@@ -37,17 +35,13 @@ sections:
 
       *   Michèle Thole
 
-      *   William Thomson
-
-      Our advisory board is:
-
-      *   Diana Finch
+      *   William ThomsonOur advisory board is:*   Diana Finch
 
       *   Dr Steven Hail and [Modern Money Lab Australia](modernmoneylab.org.au)
 
       *   Professor Jaideep Pandit
 
-      *   Christian Reilly
+      *   Christian Reilly</div>
 
     elementId: ''
     styles:
