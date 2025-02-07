@@ -7,7 +7,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: Modern Money Lab UK
-    subtitle: Bringing an alternative economic conversation to the UK
+    subtitle: Brining an alternative economic conversation to the UK
     styles:
       self:
         height: auto
