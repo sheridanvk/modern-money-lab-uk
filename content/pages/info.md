@@ -22,7 +22,7 @@ sections:
       - type: ImageBlock
         url: /images/logo1.svg
         altText: Logo one
-        caption: Logo one
+        caption: Sheridan Kates
       - type: ImageBlock
         url: /images/logo2.svg
         altText: Logo two
