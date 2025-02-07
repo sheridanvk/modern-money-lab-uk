@@ -20,7 +20,7 @@ sections:
     subtitle: 'Modern Money Lab UK is:'
     images:
       - type: ImageBlock
-        url: /images/logo1.svg
+        url: /images/sheridan_headshot_cropped.jpg
         altText: Logo one
         caption: Sheridan Kates
       - type: ImageBlock
