@@ -88,7 +88,7 @@
             "phoneAltText": "",
             "email": "hello@modernmoneylab.org.uk",
             "emailAltText": "Email address for Modern Money Lab UK",
-            "address": "312 Lovely Street, Brooklyn, NY, 123456",
+            "address": "",
             "addressAltText": "My address"
         },
         "copyrightText": "Powered by [Netlify](https://www.netlify.com/)",
