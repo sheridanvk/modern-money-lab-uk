@@ -35,4 +35,5 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
+socialImage: /images/MML_UK_logo.png
 ---
