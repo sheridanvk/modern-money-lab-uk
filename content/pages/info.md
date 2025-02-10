@@ -8,9 +8,8 @@ sections:
     variant: variant-a
     title: About Us
     subtitle: ''
-    text: |
-      <div style="text-align: left">
-      Modern Money Lab UK are:
+    text: |+
+      <div style="text-align: left">Modern Money Lab UK are:</div>
 
       *   Susan Borden
       *   Rachel Earnshaw
@@ -26,8 +25,9 @@ sections:
       *   Diana Finch
       *   Dr Steven Hail and [Modern Money Lab Australia](modernmoneylab.org.au)
       *   Professor Jaideep Pandit
-      *   Christian Reilly
+
       </div>
+
     elementId: ''
     styles:
       self:
