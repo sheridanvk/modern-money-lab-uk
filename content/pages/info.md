@@ -26,7 +26,7 @@ sections:
       *   Diana Finch
       *   Dr Steven Hail and [Modern Money Lab Australia](modernmoneylab.org.au)
       *   Professor Jaideep Pandit
-      *   Christian Reilly
+
       </div>
     elementId: ''
     styles:
