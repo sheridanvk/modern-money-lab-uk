@@ -8,8 +8,9 @@ sections:
     variant: variant-a
     title: About Us
     subtitle: ''
-    text: |+
-      <div style="text-align: left">Modern Money Lab UK are:</div>
+    text: |
+      <div style="text-align: left">
+      Modern Money Lab UK are:
 
       *   Susan Borden
       *   Rachel Earnshaw
@@ -27,7 +28,6 @@ sections:
       *   Professor Jaideep Pandit
 
       </div>
-
     elementId: ''
     styles:
       self:
