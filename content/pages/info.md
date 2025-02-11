@@ -8,24 +8,37 @@ sections:
     variant: variant-a
     title: About Us
     subtitle: ''
-    text: |
-      <div style="text-align: left">
-      Modern Money Lab UK are:
+    text: >
+      <div style="text-align: left">Modern Money Lab UK are:
+
 
       *   Susan Borden
+
       *   Rachel Earnshaw
+
       *   Sheridan Kates
+
       *   Dr Stephanie Linkogle
+
       *   Ciaran McKenna
+
       *   Dan Sofer
+
       *   Michèle Thole
+
       *   William Thomson
+
 
       Our advisory board is:
 
+
       *   Diana Finch
-      *   Dr Steven Hail and [Modern Money Lab Australia](modernmoneylab.org.au)
+
+      *   Dr Steven Hail and [Modern Money Lab
+      Australia](https://modernmoneylab.org.au)
+
       *   Professor Jaideep Pandit
+
 
       </div>
     elementId: ''
