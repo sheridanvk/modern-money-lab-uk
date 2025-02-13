@@ -8,7 +8,7 @@ sections:
     variant: variant-a
     title: About Us
     subtitle: ''
-    text: >
+    text: >-
       <div style="text-align: left">Modern Money Lab UK are:
 
 
@@ -41,6 +41,12 @@ sections:
 
 
       </div>
+
+      <link href='https://actionnetwork.org/css/style-embed-v3.css'
+      rel='stylesheet' type='text/css' /><script
+      src='https://actionnetwork.org/widgets/v5/form/join-the-modern-money-lab-uk-mailing-list?format=js&source=widget'></script><div
+      id='can-form-area-join-the-modern-money-lab-uk-mailing-list' style='width:
+      100%'><!-- this div is the target for our HTML insertion --></div>
     elementId: ''
     styles:
       self:
