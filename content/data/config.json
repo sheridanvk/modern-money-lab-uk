@@ -33,6 +33,13 @@
                 "url": "https://x.com/mmlabuk",
                 "icon": "twitter",
                 "elementId": ""
+            },            {
+                "type": "Social",
+                "label": "Bluesky",
+                "altText": "",
+                "url": "https://bsky.app/profile/modernmoneylabuk.bsky.social",
+                "icon": "bluesky",
+                "elementId": ""
             }
         ],
         "styles": {
