@@ -25,7 +25,16 @@
                 "elementId": ""
             }
         ],
-        "socialLinks": [],
+        "socialLinks": [
+            {
+                "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "https://x.com/mmlabuk",
+                "icon": "twitter",
+                "elementId": ""
+            }
+        ],
         "styles": {
             "self": {
                 "width": "full"
