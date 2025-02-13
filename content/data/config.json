@@ -33,7 +33,7 @@
         },
         "logo": {
             "type": "ImageBlock",
-            "url": "/images/MML_UK_logo.png",
+            "url": "/images/MML_logo.svg",
             "altText": "altText of the image",
             "caption": "Caption of the image",
             "elementId": ""
