@@ -30,15 +30,7 @@ sections:
         textAlign: left
   - type: FeaturedProjectsSection
     subtitle: 'Upcoming:'
-    actions:
-      - type: Link
-        label: See all projects
-        altText: See all projects
-        url: /projects
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        elementId: ''
+    actions: []
     projects:
       - content/pages/projects/project-one.md
       - content/pages/projects/project-two.md
