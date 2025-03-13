@@ -29,7 +29,7 @@ sections:
       text:
         textAlign: left
   - type: FeaturedProjectsSection
-    subtitle: 'Projects:'
+    subtitle: 'Upcoming:'
     actions:
       - type: Link
         label: See all projects
