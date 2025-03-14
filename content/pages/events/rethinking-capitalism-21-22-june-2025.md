@@ -11,7 +11,7 @@ sections:
         altText: ''
         url: /
         showIcon: true
-        icon: arrowRight
+        icon: arrowLeft
         iconPosition: right
         style: primary
         elementId: ''
