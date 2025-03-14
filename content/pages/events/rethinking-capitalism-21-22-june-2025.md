@@ -7,7 +7,7 @@ sections:
     text: ''
     actions:
       - type: Button
-        label: Try it now
+        label: Back to all events
         altText: ''
         url: /
         showIcon: true
