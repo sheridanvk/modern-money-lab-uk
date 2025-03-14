@@ -64,8 +64,6 @@ sections:
           must be paid for by implementing austerity measures.
         featuredImage:
           type: ImageBlock
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
           altText: Item image
           caption: Caption of the image
           elementId: ''
