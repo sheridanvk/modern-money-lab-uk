@@ -4,9 +4,7 @@ title: Rethinking Capitalism - 21/22 June 2025
 sections:
   - type: CtaSection
     title: ''
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    text: ''
     actions:
       - type: Button
         label: Try it now
