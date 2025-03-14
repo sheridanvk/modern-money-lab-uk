@@ -1,0 +1,26 @@
+{
+    "model": "Link",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "Link",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "Link"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "label": "See all posts",
+                "altText": "See all posts",
+                "url": "/blog",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
+            }
+        }
+    ]
+}
