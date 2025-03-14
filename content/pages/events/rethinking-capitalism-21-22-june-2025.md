@@ -13,7 +13,7 @@ sections:
         showIcon: true
         icon: arrowLeft
         iconPosition: left
-        style: primary
+        style: secondary
         elementId: ''
     colors: colors-f
     backgroundSize: full
