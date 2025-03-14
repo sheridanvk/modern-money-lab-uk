@@ -5,16 +5,7 @@ sections:
   - type: CtaSection
     title: ''
     text: ''
-    actions:
-      - type: Button
-        label: Back to all events
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowLeft
-        iconPosition: left
-        style: primary
-        elementId: ''
+    actions: []
     colors: colors-f
     backgroundSize: full
     elementId: ''
