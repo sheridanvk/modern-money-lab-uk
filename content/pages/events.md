@@ -29,7 +29,7 @@ sections:
       text:
         textAlign: left
   - type: FeaturedItemsSection
-    title: Value propositions
+    title: Upcoming Events
     items:
       - type: FeaturedItem
         title: Rethinking Capitalism
