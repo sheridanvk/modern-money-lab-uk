@@ -80,6 +80,10 @@ export const LinkModel: Model = {
                     value: 'arrowUpRight'
                 },
                 {
+                    label: 'Bluesky',
+                    value: 'bluesky'
+                },
+                {
                     label: 'Cart',
                     value: 'cart'
                 },

@@ -141,6 +141,7 @@ export type Button = BaseContentObject & {
         | 'arrowRightCircle'
         | 'arrowUpLeft'
         | 'arrowUpRight'
+        | 'bluesky'
         | 'cart'
         | 'chevronLeft'
         | 'chevronRight'
@@ -371,6 +372,7 @@ export type Link = BaseContentObject & {
         | 'arrowRightCircle'
         | 'arrowUpLeft'
         | 'arrowUpRight'
+        | 'bluesky'
         | 'cart'
         | 'chevronLeft'
         | 'chevronRight'
@@ -611,7 +613,7 @@ export type Social = BaseContentObject & {
     label?: string;
     altText?: string;
     url: string;
-    icon: 'facebook' | 'github' | 'instagram' | 'linkedin' | 'reddit' | 'twitter' | 'vimeo' | 'youtube';
+    icon: 'bluesky' | 'facebook' | 'github' | 'instagram' | 'linkedin' | 'reddit' | 'twitter' | 'vimeo' | 'youtube';
     elementId?: string;
 };
 
