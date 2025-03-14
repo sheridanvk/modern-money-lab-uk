@@ -28,36 +28,6 @@ sections:
         textAlign: left
       text:
         textAlign: left
-  - type: FeaturedProjectsSection
-    subtitle: 'Upcoming:'
-    actions: []
-    projects:
-      - content/pages/projects/project-one.md
-      - content/pages/projects/project-two.md
-      - content/pages/projects/project-three.md
-    colors: colors-d
-    variant: variant-b
-    elementId: ''
-    showDate: false
-    showDescription: true
-    showFeaturedImage: true
-    showReadMoreLink: true
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: center
 addTitleSuffix: true
 colors: colors-b
 ---
