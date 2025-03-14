@@ -33,7 +33,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Rethinking Capitalism
-        subtitle: ''
+        subtitle: '21-22 June 2025, London'
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
