@@ -73,7 +73,7 @@ sections:
           elementId: ''
         actions:
           - type: Button
-            label: ''
+            label: More details
             altText: ''
             url: /
             showIcon: true
