@@ -59,10 +59,11 @@ sections:
       - type: FeaturedItem
         title: 'Money, Government and the Public Interest'
         subtitle: '28-29 June 2025, London'
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: >
+          This workshop will empower participants to counter the common
+          narrative that significant public interest investment — in healthcare,
+          education, climate action, whatever is needed — is unaffordable or
+          must be paid for by implementing austerity measures.
         featuredImage:
           type: ImageBlock
           url: >-
