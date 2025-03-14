@@ -2,31 +2,6 @@
 type: PageLayout
 title: Rethinking Capitalism - 21/22 June 2025
 sections:
-  - type: CtaSection
-    title: ''
-    text: ''
-    actions: []
-    colors: colors-f
-    backgroundSize: full
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-2
-          - pb-2
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: col
-      title:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
   - type: TextSection
     colors: colors-f
     variant: variant-a
