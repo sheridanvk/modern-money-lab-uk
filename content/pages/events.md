@@ -58,7 +58,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: 'Money, Government and the Public Interest'
-        subtitle: ''
+        subtitle: '28-29 June 2025, London'
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
