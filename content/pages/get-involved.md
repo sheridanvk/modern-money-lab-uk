@@ -6,7 +6,7 @@ sections:
     colors: colors-f
     variant: variant-a
     title: Get Involved
-    subtitle: The section subtitle
+    subtitle: Ways to get involved with Modern Money Lab UK
     text: >-
       Start adding sections by clicking the + button on the page or through the
       sidebar.
