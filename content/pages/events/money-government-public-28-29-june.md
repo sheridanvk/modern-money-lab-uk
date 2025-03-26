@@ -134,7 +134,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    subtitle: ''
+    subtitle: Solidarity
 addTitleSuffix: true
 metaTags: []
 colors: colors-b
