@@ -71,7 +71,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: I'm Smart
+        title: Solidarity
         subtitle: ''
         text: >
           Full-price plus a much-appreciated contribution to help us cover
