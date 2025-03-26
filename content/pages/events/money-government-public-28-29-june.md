@@ -80,7 +80,8 @@ sections:
           - type: Button
             label: Buy for £80
             altText: ''
-            url: /
+            url: >-
+              https://gallusevents.thrivecart.com/money-govt-and-the-public-interest-sol/
             showIcon: true
             icon: arrowRight
             iconPosition: right
