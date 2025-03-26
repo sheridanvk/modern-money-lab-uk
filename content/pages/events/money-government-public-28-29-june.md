@@ -59,7 +59,8 @@ sections:
           - type: Button
             label: Buy for £45
             altText: ''
-            url: /
+            url: >-
+              https://gallusevents.thrivecart.com/money-government-and-the-public-interest/
             showIcon: true
             icon: arrowRight
             iconPosition: right
