@@ -100,7 +100,7 @@ sections:
           pharetra ipsum dolor, et iaculis elit ornare ac.
         actions:
           - type: Button
-            label: ''
+            label: Buy for £30
             altText: ''
             url: >-
               https://gallusevents.thrivecart.com/money-government-and-the-public-interest-copy-2/
