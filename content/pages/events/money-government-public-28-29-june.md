@@ -57,7 +57,7 @@ sections:
           Full-price ticket
         actions:
           - type: Button
-            label: ''
+            label: 'Buy for '
             altText: ''
             url: /
             showIcon: true
