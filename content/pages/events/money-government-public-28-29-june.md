@@ -78,7 +78,7 @@ sections:
           concession tickets
         actions:
           - type: Button
-            label: 'Buy for '
+            label: Buy for £80
             altText: ''
             url: /
             showIcon: true
