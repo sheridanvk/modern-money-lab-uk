@@ -11,7 +11,7 @@ sections:
       - type: Button
         label: Try it now
         altText: ''
-        url: /
+        url: /events
         showIcon: true
         icon: arrowRight
         iconPosition: right
