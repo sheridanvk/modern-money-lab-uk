@@ -9,7 +9,7 @@ sections:
       Changing the conversation around money and the economy in the UK
     actions:
       - type: Button
-        label: Try it now
+        label: Join us at an event
         altText: ''
         url: /events
         showIcon: true
