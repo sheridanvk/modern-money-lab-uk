@@ -79,7 +79,8 @@ sections:
           - type: Button
             label: ''
             altText: ''
-            url: /
+            url: >-
+              https://gallusevents.thrivecart.com/rethinking-capitalism-solidarity/
             showIcon: true
             icon: arrowRight
             iconPosition: right
