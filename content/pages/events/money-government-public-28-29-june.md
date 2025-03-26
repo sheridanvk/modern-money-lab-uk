@@ -78,7 +78,7 @@ sections:
           concession tickets
         actions:
           - type: Button
-            label: ''
+            label: 'Buy for '
             altText: ''
             url: /
             showIcon: true
