@@ -73,10 +73,9 @@ sections:
       - type: FeaturedItem
         title: I'm Smart
         subtitle: ''
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: >
+          Full-price plus a much-appreciated contribution to help us cover
+          concession tickets
         actions:
           - type: Button
             label: ''
