@@ -97,7 +97,7 @@ sections:
           Anyone on a reduced income
         actions:
           - type: Button
-            label: ''
+            label: Buy for £30
             altText: ''
             url: /
             showIcon: true
