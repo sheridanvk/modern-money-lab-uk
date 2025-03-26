@@ -133,7 +133,9 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    subtitle: ''
+    subtitle: >-
+      (If these prices are prohibitive, get in touch and we'll work something
+      out)
 addTitleSuffix: true
 metaTags: []
 colors: colors-b
