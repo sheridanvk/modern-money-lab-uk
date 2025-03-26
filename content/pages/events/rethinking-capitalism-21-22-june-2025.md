@@ -57,7 +57,7 @@ sections:
           Full-price ticket
         actions:
           - type: Button
-            label: ''
+            label: Buy for £45
             altText: ''
             url: 'https://gallusevents.thrivecart.com/rethinking-capitalism'
             showIcon: true
