@@ -4,7 +4,7 @@ title: Modern Money Lab UK
 colors: colors-b
 sections:
   - type: CtaSection
-    title: Let's do this
+    title: Modern Money Lab UK
     text: >-
       The Stackbit theme is flexible and scalable to every need. It can manage
       any layout and any screen.
