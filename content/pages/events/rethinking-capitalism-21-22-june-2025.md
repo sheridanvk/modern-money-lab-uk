@@ -132,6 +132,9 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+    subtitle: >-
+      (If these prices are prohibitive, get in touch and we'll work something
+      out)
 addTitleSuffix: true
 colors: colors-b
 ---
