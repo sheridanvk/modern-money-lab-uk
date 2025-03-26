@@ -3,37 +3,40 @@ type: PageLayout
 title: Modern Money Lab UK
 colors: colors-b
 sections:
-  - elementId: ''
-    colors: colors-f
-    backgroundSize: full
+  - type: CtaSection
     title: Modern Money Lab UK
-    subtitle: Changing the conversation around money and the economy in the UK
+    text: |
+      Changing the conversation around money and the economy in the UK
+    actions:
+      - type: Button
+        label: Join us at an event
+        altText: Button to take you to the events page
+        url: /events
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+    colors: colors-b
+    backgroundSize: full
+    elementId: ''
     styles:
       self:
         height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
+        width: narrow
         padding:
-          - pt-36
-          - pb-48
+          - pt-28
+          - pb-28
           - pl-4
           - pr-4
         alignItems: center
         justifyContent: center
-        flexDirection: row-reverse
+        flexDirection: col
       title:
-        textAlign: left
-      subtitle:
         textAlign: left
       text:
         textAlign: left
       actions:
         justifyContent: flex-start
-    type: HeroSection
-    actions: []
 socialImage: /images/MML_logo.svg
 ---
