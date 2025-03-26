@@ -135,6 +135,9 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+    subtitle: >-
+      If these prices are prohibitive, get in touch at
+      hello@modernmoneylab.org.uk
 addTitleSuffix: true
 metaTags: []
 colors: colors-b
