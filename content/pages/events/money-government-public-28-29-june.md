@@ -102,7 +102,8 @@ sections:
           - type: Button
             label: ''
             altText: ''
-            url: /
+            url: >-
+              https://gallusevents.thrivecart.com/money-government-and-the-public-interest-copy-2/
             showIcon: true
             icon: arrowRight
             iconPosition: right
