@@ -99,7 +99,8 @@ sections:
           - type: Button
             label: Buy for £30
             altText: ''
-            url: /
+            url: >-
+              https://gallusevents.thrivecart.com/rethinking-capitalism-concession/
             showIcon: true
             icon: arrowRight
             iconPosition: right
