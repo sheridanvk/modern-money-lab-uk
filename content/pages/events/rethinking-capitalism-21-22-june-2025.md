@@ -77,7 +77,7 @@ sections:
           concession tickets
         actions:
           - type: Button
-            label: ''
+            label: Buy for £80
             altText: ''
             url: >-
               https://gallusevents.thrivecart.com/rethinking-capitalism-solidarity/
