@@ -35,7 +35,6 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-    text: |
-      Join us at one of our events coming up in 2025
+    text: ''
 socialImage: /images/MML_logo.svg
 ---
