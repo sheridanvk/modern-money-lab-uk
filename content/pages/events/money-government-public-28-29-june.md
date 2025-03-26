@@ -51,7 +51,7 @@ sections:
     title: Tickets
     items:
       - type: FeaturedItem
-        title: I'm Fast
+        title: General Admission
         subtitle: ''
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
