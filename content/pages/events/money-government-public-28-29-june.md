@@ -57,7 +57,7 @@ sections:
           Full-price ticket
         actions:
           - type: Button
-            label: 'Buy for '
+            label: Buy for £45
             altText: ''
             url: /
             showIcon: true
