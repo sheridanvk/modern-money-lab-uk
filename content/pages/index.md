@@ -10,7 +10,7 @@ sections:
     actions:
       - type: Button
         label: Join us at an event
-        altText: ''
+        altText: Button to take you to the events page
         url: /events
         showIcon: true
         icon: arrowRight
