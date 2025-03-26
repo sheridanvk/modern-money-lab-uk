@@ -71,7 +71,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: Solidarity
-        subtitle: Full-price plus the cost of covering other discount entries
+        subtitle: ''
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
