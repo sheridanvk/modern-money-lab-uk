@@ -33,8 +33,8 @@ sections:
     items:
       - type: FeaturedItem
         title: Rethinking Capitalism
-        subtitle: '21-22 June 2025, London'
-        text: "This two-day seminar includes discussion on some of the most pressing economic issues facing the world\_today.\n\nTopics include inequality, insecurity, climate change, the national budget and a campaign for a fairer and more sustainable economy, drawn from modern monetary theory and ecological economics.\n"
+        subtitle: '21-22 June 2025, London (White City)'
+        text: "This two-day seminar includes discussion on some of the most pressing economic issues facing the world\_today.\n\nTopics include challenging economic narratives around growth, inequality, insecurity, the climate crisis, the national budget and a campaign for a fairer and more sustainable economy, drawn from modern monetary theory and ecological economics.\n"
         featuredImage:
           type: ImageBlock
           altText: Item image
@@ -56,7 +56,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: 'Money, Government and the Public Interest'
-        subtitle: '28-29 June 2025, London'
+        subtitle: '28-29 June 2025, London (Finsbury Park)'
         text: >
           This workshop will empower participants to counter the common
           narrative that significant public interest investment — in healthcare,
