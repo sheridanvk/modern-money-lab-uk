@@ -100,8 +100,7 @@ sections:
           - type: Button
             label: Buy for £30
             altText: ''
-            url: >-
-              https://gallusevents.thrivecart.com/money-government-and-the-public-interest-copy-2/
+            url: 'https://gallusevents.thrivecart.com/money-govt/'
             showIcon: true
             icon: arrowRight
             iconPosition: right
