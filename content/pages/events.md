@@ -59,9 +59,11 @@ sections:
         subtitle: '28-29 June 2025, London (Finsbury Park)'
         text: >
           This workshop will empower participants to counter the common
-          narrative that significant public interest investment — in healthcare,
-          education, climate action, whatever is needed — is unaffordable or
-          must be paid for by implementing austerity measures.
+          narrative that significant public interest investment is unaffordable
+          or must be paid for by implementing austerity measures. Whether for
+          healthcare, education, climate action, or whatever is needed, you will
+          come away with a true understanding of how governments spend money and
+          what is possible.
         featuredImage:
           type: ImageBlock
           altText: Item image
