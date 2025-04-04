@@ -39,7 +39,7 @@ sections:
           placeholder: Your email
           width: full
           isRequired: 'true'
-      submitLabel: Sign Up
+      submitLabel: Join mailing list
       elementId: contact-form
       styles:
         submitLabel:
