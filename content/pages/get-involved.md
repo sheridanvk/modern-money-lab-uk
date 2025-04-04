@@ -27,7 +27,9 @@ sections:
         textAlign: left
   - type: ContactSection
     title: Subscribe
-    text: Join my newsletter to stay up-to-date
+    text: >
+      Join our mailing list to keep up-to-date with Modern Money Lab UK news and
+      events
     form:
       type: FormBlock
       title: Join our mailing list
@@ -51,7 +53,7 @@ sections:
       styles:
         submitLabel:
           textAlign: left
-    colors: colors-c
+    colors: colors-b
     backgroundSize: full
     elementId: ''
     styles:
