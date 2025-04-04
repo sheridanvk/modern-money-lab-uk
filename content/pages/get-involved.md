@@ -6,7 +6,7 @@ sections:
     colors: colors-f
     variant: variant-a
     title: Get Involved
-    subtitle: Ways to get involved with Modern Money Lab UK
+    subtitle: ''
     text: ''
     elementId: ''
     styles:
