@@ -32,13 +32,6 @@ sections:
       type: FormBlock
       title: Join our mailing list
       fields:
-        - type: EmailFormControl
-          name: email
-          label: Email address
-          hideLabel: false
-          placeholder: Your email
-          width: full
-          isRequired: 'true'
         - type: TextFormControl
           name: name
           label: Name
@@ -46,6 +39,13 @@ sections:
           placeholder: Your name
           width: full
           isRequired: false
+        - type: EmailFormControl
+          name: email
+          label: Email address
+          hideLabel: false
+          placeholder: Your email
+          width: full
+          isRequired: 'true'
       submitLabel: Join mailing list
       elementId: contact-form
       styles:
