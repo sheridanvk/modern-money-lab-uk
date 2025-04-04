@@ -39,6 +39,13 @@ sections:
           placeholder: Your email
           width: full
           isRequired: 'true'
+        - type: TextFormControl
+          name: name
+          label: Name
+          hideLabel: false
+          placeholder: Your name
+          width: full
+          isRequired: false
       submitLabel: Join mailing list
       elementId: contact-form
       styles:
