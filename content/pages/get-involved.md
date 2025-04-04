@@ -26,7 +26,7 @@ sections:
       text:
         textAlign: left
   - type: ContactSection
-    title: Subscribe
+    title: ''
     text: >
       Join our mailing list to keep up-to-date with Modern Money Lab UK news and
       events
