@@ -23,6 +23,16 @@
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "Sign up",
+                "altText": "Sign up to our mailing list",
+                "url": "https://mailchi.mp/e79762799a16/modern-money-lab-uk",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
             }
         ],
         "socialLinks": [
@@ -33,7 +43,8 @@
                 "url": "https://x.com/mmlabuk",
                 "icon": "twitter",
                 "elementId": ""
-            },            {
+            },
+            {
                 "type": "Social",
                 "label": "Bluesky",
                 "altText": "",
