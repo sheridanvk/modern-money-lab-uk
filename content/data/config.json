@@ -23,6 +23,16 @@
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "See all posts",
+                "altText": "See all posts",
+                "url": "https://mailchi.mp/e79762799a16/modern-money-lab-uk",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
             }
         ],
         "socialLinks": [
