@@ -76,8 +76,7 @@ sections:
       - type: FeaturedItem
         title: Saturday-only
         subtitle: ''
-        text: |
-          Join us online, with full participation in discussions
+        text: ''
         actions:
           - type: Button
             label: Buy for £80
