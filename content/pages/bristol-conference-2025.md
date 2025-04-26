@@ -58,7 +58,7 @@ sections:
         title: General Admission
         subtitle: ''
         text: |
-          Full-price ticket
+          In-person in Bristol
         actions:
           - type: Button
             label: Buy for £45
