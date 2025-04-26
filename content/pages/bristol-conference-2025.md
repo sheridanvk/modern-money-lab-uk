@@ -109,7 +109,14 @@ sections:
       - type: FeaturedItem
         title: Sunday only
         subtitle: ''
-        text: ''
+        text: |
+          General admission £25
+
+          Solidarity £50
+
+          Concession £12.50
+
+          Online £12.50
         featuredImage:
           type: ImageBlock
           altText: Item image
