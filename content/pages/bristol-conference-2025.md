@@ -83,7 +83,14 @@ sections:
       - type: FeaturedItem
         title: Saturday only
         subtitle: ''
-        text: ''
+        text: |
+          General admission £25
+
+          Solidarity £50
+
+          Concession £12.50
+
+          Online £12.50
         actions:
           - type: Button
             label: Buy
