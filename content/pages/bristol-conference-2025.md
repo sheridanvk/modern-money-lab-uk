@@ -60,7 +60,7 @@ sections:
         text: ''
         actions:
           - type: Button
-            label: Buy for £20-80
+            label: Buy
             altText: ''
             url: >-
               https://gallusevents.thrivecart.com/money-government-and-the-public-interest/
