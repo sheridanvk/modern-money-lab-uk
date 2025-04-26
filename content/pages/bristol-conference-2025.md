@@ -75,7 +75,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: Online-only
+        title: Online
         subtitle: ''
         text: >
           Full-price plus a much-appreciated contribution to help us cover
