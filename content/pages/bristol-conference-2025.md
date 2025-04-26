@@ -57,7 +57,14 @@ sections:
       - type: FeaturedItem
         title: Both days
         subtitle: ''
-        text: ''
+        text: |
+          General admission £40
+
+          Solidarity £80
+
+          Concession £20
+
+          Online £20
         actions:
           - type: Button
             label: Buy
