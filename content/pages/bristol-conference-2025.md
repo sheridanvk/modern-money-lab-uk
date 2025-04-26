@@ -49,7 +49,7 @@ sections:
       text:
         textAlign: left
   - type: FeaturedItemsSection
-    title: Saturday-only
+    title: Tickets
     subtitle: >-
       Online and in-person options available (if these prices are prohibitive,
       get in touch and we'll work something out)
