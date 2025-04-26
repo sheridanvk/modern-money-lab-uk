@@ -51,8 +51,8 @@ sections:
   - type: FeaturedItemsSection
     title: Tickets
     subtitle: >-
-      (If these prices are prohibitive, get in touch and we'll work something
-      out)
+      Online and in-person options available (if these prices are prohibitive,
+      get in touch and we'll work something out)
     items:
       - type: FeaturedItem
         title: General Admission
