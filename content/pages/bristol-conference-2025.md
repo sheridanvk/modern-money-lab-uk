@@ -126,7 +126,7 @@ sections:
             label: Buy
             altText: ''
             url: example.com
-            showIcon: false
+            showIcon: true
             icon: arrowRight
             iconPosition: right
             style: primary
