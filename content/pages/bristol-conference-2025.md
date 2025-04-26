@@ -95,25 +95,6 @@ sections:
         styles:
           self:
             textAlign: left
-      - type: FeaturedItem
-        title: Concession
-        subtitle: ''
-        text: |
-          Anyone on a reduced income
-        actions:
-          - type: Button
-            label: Buy for £30
-            altText: ''
-            url: 'https://gallusevents.thrivecart.com/money-govt/'
-            showIcon: true
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
-        elementId: ''
-        styles:
-          self:
-            textAlign: left
     actions: []
     colors: colors-f
     columns: 3
