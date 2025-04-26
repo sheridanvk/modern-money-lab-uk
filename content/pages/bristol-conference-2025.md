@@ -117,11 +117,6 @@ sections:
           Concession £12.50
 
           Online £12.50
-        featuredImage:
-          type: ImageBlock
-          altText: Item image
-          caption: Caption of the image
-          elementId: ''
         elementId: ''
         styles:
           self:
