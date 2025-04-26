@@ -55,7 +55,7 @@ sections:
       get in touch and we'll work something out)
     items:
       - type: FeaturedItem
-        title: General Admission
+        title: Both days
         subtitle: ''
         text: |
           In-person in Bristol
