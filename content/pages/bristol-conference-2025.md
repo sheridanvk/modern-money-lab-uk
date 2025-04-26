@@ -74,7 +74,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: Saturday-only
+        title: Saturday only
         subtitle: ''
         text: ''
         actions:
