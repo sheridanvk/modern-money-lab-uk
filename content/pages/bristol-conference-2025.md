@@ -128,7 +128,7 @@ sections:
             textAlign: left
         actions:
           - type: Button
-            label: Learn more
+            label: Buy
             altText: ''
             url: example.com
             showIcon: false
