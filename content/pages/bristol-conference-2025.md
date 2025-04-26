@@ -77,9 +77,8 @@ sections:
       - type: FeaturedItem
         title: Online
         subtitle: ''
-        text: >
-          Full-price plus a much-appreciated contribution to help us cover
-          concession tickets
+        text: |
+          Join us online, with full participation in discussions
         actions:
           - type: Button
             label: Buy for £80
