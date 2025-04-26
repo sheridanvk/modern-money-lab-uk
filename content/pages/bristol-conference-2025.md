@@ -74,7 +74,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: Online
+        title: Saturday-only
         subtitle: ''
         text: |
           Join us online, with full participation in discussions
