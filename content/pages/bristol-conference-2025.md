@@ -57,8 +57,7 @@ sections:
       - type: FeaturedItem
         title: Both days
         subtitle: ''
-        text: |
-          In-person in Bristol
+        text: ''
         actions:
           - type: Button
             label: Buy for £45
