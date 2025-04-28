@@ -107,7 +107,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: Sunday only
+        title: Saturday only
         subtitle: ''
         text: |
           General admission £25
