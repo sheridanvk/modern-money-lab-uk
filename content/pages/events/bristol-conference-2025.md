@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Debunking money myths to end austerity in the UK - 12/13 September 2025
+title: The Anti-Austerity Conference - 12/13 September 2025
 sections:
   - type: TextSection
     colors: colors-f
