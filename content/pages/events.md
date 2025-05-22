@@ -84,6 +84,10 @@ sections:
         title: The Anti-Austerity Conference
         subtitle: ''
         text: >
+          Anything we can do, we can afford: debunking money myths to end
+          austerity in the UK
+
+
           This conference will debunk money myths to counter the common
           narrative that significant public interest investment is unaffordable
           or must be paid for by implementing austerity measures. Whether for
