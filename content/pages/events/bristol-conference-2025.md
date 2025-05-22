@@ -123,7 +123,8 @@ sections:
           - type: Button
             label: Buy
             altText: ''
-            url: example.com
+            url: >-
+              https://gallusevents.thrivecart.com/anti-austerity-conference-saturday/
             showIcon: true
             icon: arrowRight
             iconPosition: right
