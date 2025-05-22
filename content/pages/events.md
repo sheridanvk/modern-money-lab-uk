@@ -29,7 +29,7 @@ sections:
     title: ''
     items:
       - type: FeaturedItem
-        title: I'm Fast
+        title: The Anti-Austerity Conference
         subtitle: ''
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
