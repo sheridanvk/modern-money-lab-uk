@@ -82,7 +82,9 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: The Anti-Austerity Conference
-        subtitle: ''
+        subtitle: >-
+          Anything we can do, we can afford: debunking money myths to end
+          austerity in the UK
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
