@@ -103,7 +103,7 @@ sections:
             label: Learn more
             altText: ''
             url: /events/bristol-conference-2025/
-            showIcon: false
+            showIcon: true
             icon: arrowRight
             iconPosition: right
             style: primary
