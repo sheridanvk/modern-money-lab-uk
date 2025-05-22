@@ -72,7 +72,7 @@ sections:
             label: Buy
             altText: ''
             url: >-
-              https://gallusevents.thrivecart.com/money-government-and-the-public-interest/
+              https://gallusevents.thrivecart.com/anti-austerity-conference-both-days/
             showIcon: true
             icon: arrowRight
             iconPosition: right
