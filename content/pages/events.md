@@ -30,7 +30,7 @@ sections:
     items:
       - type: FeaturedItem
         title: The Anti-Austerity Conference
-        subtitle: ''
+        subtitle: '12-13 September 2025, Bristol'
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
