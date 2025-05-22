@@ -82,7 +82,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: The Anti-Austerity Conference
-        subtitle: ''
+        subtitle: '12-13 September 2025, Bristol'
         text: >
           Anything we can do, we can afford: debunking money myths to end
           austerity in the UK
