@@ -85,10 +85,13 @@ sections:
         subtitle: >-
           Anything we can do, we can afford: debunking money myths to end
           austerity in the UK
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          This conference will debunk money myths to counter the common
+          narrative that significant public interest investment is unaffordable
+          or must be paid for by implementing austerity measures. Whether for
+          healthcare, employment, climate action or housing, you will come away
+          with a true understanding of how our government spends money and what
+          is possible.
         featuredImage:
           type: ImageBlock
           url: >-
