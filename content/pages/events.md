@@ -92,13 +92,6 @@ sections:
           healthcare, employment, climate action or housing, you will come away
           with a true understanding of how our government spends money and what
           is possible.
-        featuredImage:
-          type: ImageBlock
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
-          altText: Item image
-          caption: Caption of the image
-          elementId: ''
         elementId: ''
         styles:
           self:
