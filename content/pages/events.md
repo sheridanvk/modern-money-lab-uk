@@ -100,7 +100,7 @@ sections:
             textAlign: left
         actions:
           - type: Button
-            label: Learn more
+            label: More details
             altText: ''
             url: /events/bristol-conference-2025/
             showIcon: true
