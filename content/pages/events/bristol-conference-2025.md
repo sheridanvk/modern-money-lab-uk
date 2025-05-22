@@ -98,7 +98,7 @@ sections:
             label: Buy
             altText: ''
             url: >-
-              https://gallusevents.thrivecart.com/money-govt-and-the-public-interest-sol/
+              https://gallusevents.thrivecart.com/anti-austerity-conference-friday/
             showIcon: true
             icon: arrowRight
             iconPosition: right
