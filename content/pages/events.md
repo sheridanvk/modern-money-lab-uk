@@ -7,10 +7,7 @@ sections:
     variant: variant-a
     title: Events
     subtitle: ''
-    text: >
-      Watch this space for details of a conference in Bristol on 12-13 September
-      2025: "Anything we can actually do, we can afford: Debunking money myths
-      to end austerity in the UK"
+    text: ''
     elementId: ''
     styles:
       self:
@@ -28,6 +25,59 @@ sections:
         textAlign: left
       text:
         textAlign: left
+  - type: FeaturedItemsSection
+    title: ''
+    items:
+      - type: FeaturedItem
+        title: The Anti-Austerity Conference
+        subtitle: '12-13 September 2025, Bristol'
+        text: >
+          Anything we can do, we can afford: debunking money myths to end
+          austerity in the UK
+
+
+          This conference will debunk money myths to counter the common
+          narrative that significant public interest investment is unaffordable
+          or must be paid for by implementing austerity measures. Whether for
+          healthcare, employment, climate action or housing, you will come away
+          with a true understanding of how our government spends money and what
+          is possible.
+        actions:
+          - type: Button
+            label: More details
+            altText: ''
+            url: /events/bristol-conference-2025/
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+    actions: []
+    colors: colors-f
+    columns: 1
+    spacingX: 16
+    spacingY: 16
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-4
+          - pb-4
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
   - type: FeaturedItemsSection
     title: ''
     items:
