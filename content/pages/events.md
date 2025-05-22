@@ -7,10 +7,7 @@ sections:
     variant: variant-a
     title: Events
     subtitle: ''
-    text: >
-      Watch this space for details of a conference in Bristol on 12-13 September
-      2025: "Anything we can actually do, we can afford: Debunking money myths
-      to end austerity in the UK"
+    text: ''
     elementId: ''
     styles:
       self:
