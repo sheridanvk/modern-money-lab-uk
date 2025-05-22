@@ -46,7 +46,7 @@ sections:
           - type: Button
             label: More details
             altText: ''
-            url: /
+            url: /events/bristol-conference-2025/
             showIcon: true
             icon: arrowRight
             iconPosition: right
