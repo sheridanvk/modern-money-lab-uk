@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Debunking money myths to end austerity in the UK - 12/13 September 2025
+title: The Anti-Austerity Conference - 12/13 September 2025
 sections:
   - type: TextSection
     colors: colors-f
@@ -29,8 +29,10 @@ sections:
     colors: colors-f
     variant: variant-a
     title: 'Event: The anti-austerity conference'
-    subtitle: 'Anything we can actually do, we can afford'
-    text: "Are you tired of hearing that improving the wellbeing of people and the planet is unaffordable?\_\n\nAre you concerned that focus on GDP growth increases inequality?\n\nWould you like to understand better how we got into this situation, and how we might overcome it?\n\nThis conference will debunk money myths to counter the common narrative that significant public interest investment is unaffordable or must be paid for by implementing austerity measures. Whether for healthcare, employment, climate action or housing, you will come away with a true understanding of how our government spends money and what is possible.\n\n**Dates:** 12-13 September, 2025\n\n**Location:** The Station - Creative Youth Network, [Silver St](https://maps.app.goo.gl/cv2GJxm1oJjbU4op7), Bristol BS1 2AG\n\n###### Friday 12 September\n\nFrom 5pm:\_\n\n*   Introduction to the main conference: A conversation between Stephanie Kelton (author of The Deficit Myth\_- joining remotely) and Steven Hail (founder and director of Torrens University’s global Masters programme in the Economics of Sustainability).\n\n*   Keynote: An eco-socialist transformation for the UK - what would it look like? Speaker TBC, followed by a Q+A.\n\n###### Saturday 13 September\n\nFrom 10am:\n\n*   Keynote: The UK’s wellbeing economy: ensuring a decent standard of living for all within planetary boundaries. Speaker TBC, followed by a Q+A.\n\n*   Presentation: A good job for everyone who wants one - ensuring full employment in the UK through a government job guarantee (Phil Armstrong). Followed by a panel discussion.\n\n*   Panel discussion: Tackling health inequality in the UK: enabling people to live healthier lives, and rebuilding an NHS and care system that works for everyone (Jaideep Pandit and further speakers TBC, chaired by William Thomson).\n\n*   Panel discussion: The UK’s housing affordability crisis: what can be done? (chaired by Sheridan Kates, speakers TBC).\n\n*   Closing plenary: Changing the conversation: how do we take these ideas forward? Followed by group discussions.\n\n"
+    subtitle: >-
+      Anything we can do, we can afford: debunking money myths to end austerity
+      in the UK
+    text: "Are you tired of hearing that improving the wellbeing of people and the planet is unaffordable?\_\n\nAre you concerned that focus on GDP growth increases inequality?\n\nWould you like to understand better how we got into this situation, and how we might overcome it?\n\nThis conference will debunk money myths to counter the common narrative that significant public interest investment is unaffordable or must be paid for by implementing austerity measures. Whether for healthcare, employment, climate action or housing, you will come away with a true understanding of how our government spends money and what is possible.\n\n**Dates:** 12-13 September, 2025\n\n**Location:** The Station - Creative Youth Network, [Silver St](https://maps.app.goo.gl/cv2GJxm1oJjbU4op7), Bristol BS1 2AG\n\n###### Friday 12 September\n\nNoon—1:30pm:\t\tVoluntary Modern Money Theory (MMT) bootcamp\n\n1:30—2:45pm:\t\tLunch break\n\n2:45—4:45pm: \t\tVoluntary screening of Finding the Money\n\n4:45—5:00pm:\t\tBreak\n\n5:00—5:30pm: \t\tWelcome \n\n5:30—7:00pm:\t\tFoundational framing conversation: Steven Hail and Stephanie Kelton\n\nSteven Hail will cover how austerity is a policy choice. Stephanie will join us remotely for a 30-45 minute interview covering the need-to-know fundamentals of MMT.\n\n7:30—9:00pm:\t\tThe Political Economy of the UK\n\nA panel session analysing the political economy of the UK, with a focus on the unnecessary damage from decades of austerity. Chaired by Randeep Ramesh, alongside Plaid Cymru Councillor Mark Hooper. More speakers to be confirmed. \n\n###### Saturday 13 September\n\n10:00—11:15am:\t\tOpening Keynote\_\n\nWhat a Green New Deal and wellbeing economy would look like in the UK. Speaker to be confirmed.\_Followed by 45-min Q+A.\_ \_\n\n11.15—11:30am:\t\tBreak\n\n11.30—12:30pm:\t\tIntroduction to Health and the NHS.\n\nModerated panel discussion.\_Chaired by William Thompson from Scotonomics, alongside Dr. Jaideep Pandit (professor of Anaesthesia at the University of Oxford). More speakers to be confirmed.\_\_\n\n12:30—12:30pm:\t\tLunch break\_\_\n\n1:15—2:15pm:\t\tIntroduction to Housing. \n\nModerated panel discussion.\_Chaired by Sheridan Kates (Green Party activist and organiser of Degrowth London), alongside Zack Polanski (deputy leader of the Green Party). More speakers to be confirmed.\_\n\n2:15—3:30pm:\t\tIntroduction to Employment. \n\nShort Presentation and moderated panel session. Chaired by Phil Armstrong (Association for Heterodox Economics member and teacher), alongside Patricia Pino (PHD candidate at UCL Institute for Innovation and Public Purpose). More speakers to be confirmed.\_\_\n\n3.30—4:00pm:\tFinal Session\n\nHearing back from the audience and making plans to take things forward.\_\n\n\n\n"
     elementId: ''
     styles:
       self:
@@ -70,7 +72,7 @@ sections:
             label: Buy
             altText: ''
             url: >-
-              https://gallusevents.thrivecart.com/money-government-and-the-public-interest/
+              https://gallusevents.thrivecart.com/anti-austerity-conference-both-days/
             showIcon: true
             icon: arrowRight
             iconPosition: right
@@ -96,7 +98,7 @@ sections:
             label: Buy
             altText: ''
             url: >-
-              https://gallusevents.thrivecart.com/money-govt-and-the-public-interest-sol/
+              https://gallusevents.thrivecart.com/anti-austerity-conference-friday/
             showIcon: true
             icon: arrowRight
             iconPosition: right
@@ -121,7 +123,8 @@ sections:
           - type: Button
             label: Buy
             altText: ''
-            url: example.com
+            url: >-
+              https://gallusevents.thrivecart.com/anti-austerity-conference-saturday/
             showIcon: true
             icon: arrowRight
             iconPosition: right
