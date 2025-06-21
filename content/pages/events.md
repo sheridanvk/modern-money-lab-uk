@@ -118,13 +118,6 @@ sections:
         title: Rethinking Capitalism
         subtitle: '21-22 June 2025, London (White City)'
         text: "This two-day seminar includes discussion on some of the most pressing economic issues facing the world\_today.\n\nTopics include inequality, insecurity, the climate crisis, the national budget, challenging economic narratives around growth and a campaign for a fairer and more sustainable economy, drawn from modern monetary theory and ecological economics.\n"
-        featuredImage:
-          type: ImageBlock
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
-          altText: Item image
-          caption: Caption of the image
-          elementId: ''
         actions:
           - type: Button
             label: ''
