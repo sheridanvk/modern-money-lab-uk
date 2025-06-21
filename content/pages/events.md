@@ -47,7 +47,7 @@ sections:
           - type: Button
             label: More details
             altText: ''
-            url: /events/rethinking-capitalism-21-22-june-2025/
+            url: /events/bristol-conference-2025/
             showIcon: true
             icon: arrowRight
             iconPosition: right
