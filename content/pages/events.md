@@ -112,7 +112,7 @@ sections:
       actions:
         justifyContent: flex-start
   - type: FeaturedItemsSection
-    title: Value propositions
+    title: Past events
     items:
       - type: FeaturedItem
         title: I'm Fast
