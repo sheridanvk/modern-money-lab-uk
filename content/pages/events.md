@@ -84,18 +84,13 @@ sections:
       - type: FeaturedItem
         title: The Anti-Austerity Conference
         subtitle: '12-13 September 2025, Bristol'
-        text: >+
-          Anything we can do, we can afford: debunking money myths to end
-          austerity in the UK
-
-
+        text: >
           This conference will debunk money myths to counter the common
           narrative that significant public interest investment is unaffordable
           or must be paid for by implementing austerity measures. Whether for
           healthcare, employment, climate action or housing, you will come away
           with a true understanding of how our government spends money and what
           is possi
-
         featuredImage:
           type: ImageBlock
           altText: Item image
