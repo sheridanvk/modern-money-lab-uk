@@ -122,7 +122,7 @@ sections:
           - type: Button
             label: ''
             altText: ''
-            url: /
+            url: /events/rethinking-capitalism-21-22-june-2025/
             showIcon: true
             icon: arrowRight
             iconPosition: right
