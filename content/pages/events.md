@@ -120,7 +120,7 @@ sections:
         text: "This two-day seminar includes discussion on some of the most pressing economic issues facing the world\_today.\n\nTopics include inequality, insecurity, the climate crisis, the national budget, challenging economic narratives around growth and a campaign for a fairer and more sustainable economy, drawn from modern monetary theory and ecological economics.\n"
         actions:
           - type: Button
-            label: ''
+            label: More details
             altText: ''
             url: /events/rethinking-capitalism-21-22-june-2025/
             showIcon: true
