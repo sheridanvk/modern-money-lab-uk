@@ -117,10 +117,7 @@ sections:
       - type: FeaturedItem
         title: I'm Fast
         subtitle: ''
-        text: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
-          pharetra ipsum dolor, et iaculis elit ornare ac.
+        text: "This two-day seminar includes discussion on some of the most pressing economic issues facing the world\_today.\n\nTopics include inequality, insecurity, the climate crisis, the national budget, challenging economic narratives around growth and a campaign for a fairer and more sustainable economy, drawn from modern monetary theory and ecological economics.\n"
         featuredImage:
           type: ImageBlock
           url: >-
