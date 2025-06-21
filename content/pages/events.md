@@ -83,7 +83,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Rethinking Capitalism
-        subtitle: '21-22 June 2025, London (White City)'
+        subtitle: '12-13 September 2025, Bristol'
         text: >+
           Anything we can do, we can afford: debunking money myths to end
           austerity in the UK
