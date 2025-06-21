@@ -84,7 +84,18 @@ sections:
       - type: FeaturedItem
         title: Rethinking Capitalism
         subtitle: '21-22 June 2025, London (White City)'
-        text: "This two-day seminar includes discussion on some of the most pressing economic issues facing the world\_today.\n\nTopics include inequality, insecurity, the climate crisis, the national budget, challenging economic narratives around growth and a campaign for a fairer and more sustainable economy, drawn from modern monetary theory and ecological economics.\n"
+        text: >+
+          Anything we can do, we can afford: debunking money myths to end
+          austerity in the UK
+
+
+          This conference will debunk money myths to counter the common
+          narrative that significant public interest investment is unaffordable
+          or must be paid for by implementing austerity measures. Whether for
+          healthcare, employment, climate action or housing, you will come away
+          with a true understanding of how our government spends money and what
+          is possi
+
         featuredImage:
           type: ImageBlock
           altText: Item image
