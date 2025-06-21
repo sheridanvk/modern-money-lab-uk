@@ -29,35 +29,6 @@ sections:
     title: ''
     items:
       - type: FeaturedItem
-        title: The Anti-Austerity Conference
-        subtitle: '12-13 September 2025, Bristol'
-        text: >
-          This conference will debunk money myths to counter the common
-          narrative that significant public interest investment is unaffordable
-          or must be paid for by implementing austerity measures. Whether for
-          healthcare, employment, climate action or housing, you will come away
-          with a true understanding of how our government spends money and what
-          is possi
-        featuredImage:
-          type: ImageBlock
-          altText: Item image
-          caption: Caption of the image
-          elementId: ''
-        actions:
-          - type: Button
-            label: More details
-            altText: ''
-            url: /events/bristol-conference-2025/
-            showIcon: true
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
-        elementId: ''
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
         title: 'Money, Government and the Public Interest'
         subtitle: '28-29 June 2025, London (Finsbury Park)'
         text: >
@@ -77,6 +48,35 @@ sections:
             label: More details
             altText: ''
             url: /events/money-government-public-28-29-june/
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        title: The Anti-Austerity Conference
+        subtitle: '12-13 September 2025, Bristol'
+        text: >
+          This conference will debunk money myths to counter the common
+          narrative that significant public interest investment is unaffordable
+          or must be paid for by implementing austerity measures. Whether for
+          healthcare, employment, climate action or housing, you will come away
+          with a true understanding of how our government spends money and what
+          is possi
+        featuredImage:
+          type: ImageBlock
+          altText: Item image
+          caption: Caption of the image
+          elementId: ''
+        actions:
+          - type: Button
+            label: More details
+            altText: ''
+            url: /events/bristol-conference-2025/
             showIcon: true
             icon: arrowRight
             iconPosition: right
