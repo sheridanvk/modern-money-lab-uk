@@ -82,7 +82,7 @@ sections:
     title: ''
     items:
       - type: FeaturedItem
-        title: Rethinking Capitalism
+        title: The Anti-Austerity Conference
         subtitle: '12-13 September 2025, Bristol'
         text: >+
           Anything we can do, we can afford: debunking money myths to end
