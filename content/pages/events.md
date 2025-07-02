@@ -119,7 +119,7 @@ sections:
             label: More details
             altText: ''
             url: /events/money-government-public-28-29-june/
-            showIcon: false
+            showIcon: true
             icon: arrowRight
             iconPosition: right
             style: primary
