@@ -125,7 +125,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: 'Money, Government and the Public Interest'
-        subtitle: ''
+        subtitle: '28-29 June 2025, London (Finsbury Park)'
         text: >
           This workshop will empower participants to counter the common
           narrative that significant public interest investment is unaffordable
