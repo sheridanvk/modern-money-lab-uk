@@ -124,7 +124,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: Item Title
+        title: 'Money, Government and the Public Interest'
         subtitle: ''
         text: >
           This workshop will empower participants to counter the common
