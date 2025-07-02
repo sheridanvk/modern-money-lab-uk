@@ -116,7 +116,7 @@ sections:
             textAlign: left
         actions:
           - type: Button
-            label: Learn more
+            label: More details
             altText: ''
             url: /events/money-government-public-28-29-june/
             showIcon: false
