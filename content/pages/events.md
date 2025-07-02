@@ -36,8 +36,9 @@ sections:
           narrative that significant public interest investment is unaffordable
           or must be paid for by implementing austerity measures. Whether for
           healthcare, employment, climate action or housing, you will come away
-          with a true understanding of how our government spends money and what
-          is possi
+          with a true understanding of how our government spends money, which is
+          constrained only by available resources and environmental
+          considerations.
         featuredImage:
           type: ImageBlock
           altText: Item image
