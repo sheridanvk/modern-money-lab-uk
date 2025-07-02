@@ -31,16 +31,7 @@ sections:
       - type: FeaturedItem
         title: 'Money, Government and the Public Interest'
         subtitle: '28-29 June 2025, London (Finsbury Park)'
-        text: >
-          SOLD OUT! Join our mailing list for future dates.
-
-
-          This workshop will empower participants to counter the common
-          narrative that significant public interest investment is unaffordable
-          or must be paid for by implementing austerity measures. Whether for
-          healthcare, education, climate action, or whatever is needed, you will
-          come away with a true understanding of how governments spend money and
-          what is possible.
+        text: ''
         featuredImage:
           type: ImageBlock
           altText: Item image
