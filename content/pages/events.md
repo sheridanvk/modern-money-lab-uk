@@ -29,29 +29,6 @@ sections:
     title: ''
     items:
       - type: FeaturedItem
-        title: 'Money, Government and the Public Interest'
-        subtitle: '28-29 June 2025, London (Finsbury Park)'
-        text: ''
-        featuredImage:
-          type: ImageBlock
-          altText: Item image
-          caption: Caption of the image
-          elementId: ''
-        actions:
-          - type: Button
-            label: More details
-            altText: ''
-            url: /events/money-government-public-28-29-june/
-            showIcon: true
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
-        elementId: ''
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
         title: The Anti-Austerity Conference
         subtitle: '12-13 September 2025, Bristol'
         text: >
