@@ -72,10 +72,8 @@ sections:
       - type: FeaturedItem
         title: 'Solidarity '
         subtitle: 'Full-price admission, plus a contribution towards subsidised places'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          £79.75
         elementId: ''
         styles:
           self:
