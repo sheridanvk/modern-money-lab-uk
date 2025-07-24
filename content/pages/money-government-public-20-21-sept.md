@@ -109,7 +109,7 @@ sections:
             elementId: ''
     actions: []
     colors: colors-d
-    columns: 2
+    columns: 3
     spacingX: 16
     spacingY: 16
     elementId: ''
