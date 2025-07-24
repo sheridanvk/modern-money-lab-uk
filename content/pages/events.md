@@ -39,11 +39,6 @@ sections:
           with a true understanding of how our government spends money, which is
           constrained only by available resources and environmental
           considerations.
-        featuredImage:
-          type: ImageBlock
-          altText: Item image
-          caption: Caption of the image
-          elementId: ''
         actions:
           - type: Button
             label: More details
