@@ -59,7 +59,7 @@ sections:
           pharetra ipsum dolor, et iaculis elit ornare ac.
         actions:
           - type: Button
-            label: ''
+            label: Buy
             altText: ''
             url: /
             showIcon: true
