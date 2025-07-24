@@ -73,7 +73,7 @@ sections:
         title: 'Solidarity '
         subtitle: 'Full-price admission, plus a contribution towards subsidised places'
         text: |
-          £79.75
+          £75 + booking fee
         elementId: ''
         styles:
           self:
