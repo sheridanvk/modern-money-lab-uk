@@ -76,7 +76,7 @@ sections:
             label: More details
             altText: ''
             url: /events/money-government-public-20-21-sept
-            showIcon: false
+            showIcon: true
             icon: arrowRight
             iconPosition: right
             style: primary
