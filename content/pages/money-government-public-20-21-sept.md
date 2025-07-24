@@ -48,7 +48,7 @@ sections:
       text:
         textAlign: left
   - type: FeaturedItemsSection
-    title: Value propositions
+    title: Tickets
     items:
       - type: FeaturedItem
         title: I'm Fast
