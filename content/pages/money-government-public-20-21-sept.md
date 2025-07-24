@@ -52,7 +52,7 @@ sections:
     items:
       - type: FeaturedItem
         title: General Admission
-        subtitle: ''
+        subtitle: £79.75
         text: ''
         actions:
           - type: Button
