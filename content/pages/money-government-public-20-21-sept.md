@@ -57,7 +57,7 @@ sections:
         actions:
           - type: Button
             label: Buy
-            altText: ''
+            altText: £79.75
             url: 'https://events.humanitix.com/public-money-mmt-sheffield/tickets'
             showIcon: true
             icon: arrowRight
