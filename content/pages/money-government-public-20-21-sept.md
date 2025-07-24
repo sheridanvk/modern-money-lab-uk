@@ -102,7 +102,7 @@ sections:
             label: Learn more
             altText: ''
             url: 'https://events.humanitix.com/public-money-mmt-sheffield/tickets'
-            showIcon: false
+            showIcon: true
             icon: arrowRight
             iconPosition: right
             style: primary
