@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: 'Money, Government and the Public Interest - 28/29 June 2025'
+title: 'Money, Government and the Public Interest - 20/21 September 2025'
 sections:
   - type: TextSection
     colors: colors-f
