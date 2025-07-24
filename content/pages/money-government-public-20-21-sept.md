@@ -52,7 +52,7 @@ sections:
     items:
       - type: FeaturedItem
         title: General Admission
-        subtitle: £79.75
+        subtitle: ''
         text: |
           Full-price admission
         actions:
