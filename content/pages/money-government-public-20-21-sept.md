@@ -90,7 +90,7 @@ sections:
             elementId: ''
       - type: FeaturedItem
         title: Concession
-        subtitle: ''
+        subtitle: For anyone on a reduced income
         text: |
           £25 + booking fee
         elementId: ''
