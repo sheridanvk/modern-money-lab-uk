@@ -78,7 +78,7 @@ sections:
             elementId: ''
     actions: []
     colors: colors-d
-    columns: 3
+    columns: 2
     spacingX: 16
     spacingY: 16
     elementId: ''
