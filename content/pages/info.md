@@ -8,7 +8,7 @@ sections:
     variant: variant-a
     title: About Us
     subtitle: ''
-    text: >
+    text: >-
       <div style="text-align: left">Modern Money Lab UK are:
 
 
@@ -28,6 +28,8 @@ sections:
 
       *   William Thomson
 
+      *   Tamsyn Widdon
+
 
       Our advisory board is:
 
@@ -38,7 +40,6 @@ sections:
       Australia](https://modernmoneylab.org.au)
 
       *   Professor Jaideep Pandit
-
 
       </div>
     elementId: ''
