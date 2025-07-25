@@ -68,7 +68,7 @@ sections:
             textAlign: left
         actions:
           - type: Button
-            label: Learn more
+            label: More details
             altText: ''
             url: /events/ams-money-government-public-14-sept/
             showIcon: true
