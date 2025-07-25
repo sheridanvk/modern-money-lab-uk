@@ -95,7 +95,7 @@ sections:
         title: Concession
         subtitle: For anyone on a reduced income
         text: |
-          £25 + booking fee
+          €30 + booking fee
         actions:
           - type: Button
             label: Buy
