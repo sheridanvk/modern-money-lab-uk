@@ -119,7 +119,7 @@ sections:
     styles:
       self:
         height: auto
-        width: wide
+        width: narrow
         padding:
           - pt-28
           - pb-36
