@@ -80,11 +80,11 @@ sections:
         title: 'Money, Government and the Public Interest'
         subtitle: '14 September 2025, Amsterdam'
         text: >
-          This workshop will empower participants to counter the common
+          This one-day workshop will empower participants to counter the common
           narrative that significant public interest investment is unaffordable
-          or must be paid for by implementing austerity measures. You will come
-          away with a true understanding of how governments spend money and what
-          is possible.
+          or must be paid for by implementing austerity measures, with a focus
+          on the Eurozone. You will come away with a true understanding of how
+          governments spend money and what is possible.
         elementId: ''
         styles:
           self:
