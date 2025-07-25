@@ -79,10 +79,12 @@ sections:
       - type: FeaturedItem
         title: Item Title
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          This workshop will empower participants to counter the common
+          narrative that significant public interest investment is unaffordable
+          or must be paid for by implementing austerity measures. You will come
+          away with a true understanding of how governments spend money and what
+          is possible.
         elementId: ''
         styles:
           self:
