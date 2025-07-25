@@ -98,13 +98,6 @@ sections:
           or must be paid for by implementing austerity measures, with a focus
           on the Eurozone. You will come away with a true understanding of how
           governments spend money and what is possible.
-        featuredImage:
-          type: ImageBlock
-          url: >-
-            https://assets.stackbit.com/components/images/default/default-image.png
-          altText: Item image
-          caption: Caption of the image
-          elementId: ''
         elementId: ''
         styles:
           self:
