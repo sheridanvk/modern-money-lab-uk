@@ -71,7 +71,7 @@ sections:
             label: Learn more
             altText: ''
             url: /events/ams-money-government-public-14-sept/
-            showIcon: false
+            showIcon: true
             icon: arrowRight
             iconPosition: right
             style: primary
