@@ -57,7 +57,7 @@ sections:
         title: General Admission
         subtitle: Full-price admission
         text: |
-          £40 + booking fee
+          €35 + booking fee
         actions:
           - type: Button
             label: Buy
