@@ -55,6 +55,29 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: 'Money, Government and the Public Interest'
+        subtitle: '14 September 2025, Amsterdam'
+        text: >
+          This one-day workshop will empower participants to counter the common
+          narrative that significant public interest investment is unaffordable
+          or must be paid for by implementing austerity measures, with a focus
+          on the Eurozone. You will come away with a true understanding of how
+          governments spend money and what is possible.
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+        actions:
+          - type: Button
+            label: More details
+            altText: ''
+            url: /events/ams-money-government-public-14-sept/
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+      - type: FeaturedItem
+        title: 'Money, Government and the Public Interest'
         subtitle: '20-21 September 2025, Sheffield'
         text: >
           This workshop will empower participants to counter the common
@@ -71,6 +94,29 @@ sections:
             label: More details
             altText: ''
             url: /events/money-government-public-20-21-sept
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+      - type: FeaturedItem
+        title: 'Money, Government and the Public Interest'
+        subtitle: '27-28 September 2025, Vienna'
+        text: >
+          This workshop will empower participants to counter the common
+          narrative that significant public interest investment is unaffordable
+          or must be paid for by implementing austerity measures, with a focus
+          on the Eurozone. You will come away with a true understanding of how
+          governments spend money and what is possible.
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+        actions:
+          - type: Button
+            label: Learn more
+            altText: ''
+            url: /events/vienna-money-government-public-27-28-sept/
             showIcon: true
             icon: arrowRight
             iconPosition: right
