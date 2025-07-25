@@ -92,10 +92,12 @@ sections:
       - type: FeaturedItem
         title: 'Money, Government and the Public Interest'
         subtitle: '27-28 September 2025, Vienna'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          This workshop will empower participants to counter the common
+          narrative that significant public interest investment is unaffordable
+          or must be paid for by implementing austerity measures, with a focus
+          on the Eurozone. You will come away with a true understanding of how
+          governments spend money and what is possible.
         featuredImage:
           type: ImageBlock
           url: >-
