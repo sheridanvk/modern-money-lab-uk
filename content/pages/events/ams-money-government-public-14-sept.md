@@ -76,7 +76,7 @@ sections:
         title: 'Solidarity '
         subtitle: 'Full-price admission, plus a contribution towards subsidised places'
         text: |
-          £75 + booking fee
+          €50.00 + booking fee
         actions:
           - type: Button
             label: Buy
