@@ -66,6 +66,16 @@ sections:
         styles:
           self:
             textAlign: left
+        actions:
+          - type: Button
+            label: Learn more
+            altText: ''
+            url: /events/ams-money-government-public-14-sept/
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
       - type: FeaturedItem
         title: 'Money, Government and the Public Interest'
         subtitle: '20-21 September 2025, Sheffield'
