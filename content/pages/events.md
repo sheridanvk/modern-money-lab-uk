@@ -117,7 +117,7 @@ sections:
             label: Learn more
             altText: ''
             url: /events/ams
-            showIcon: false
+            showIcon: true
             icon: arrowRight
             iconPosition: right
             style: primary
