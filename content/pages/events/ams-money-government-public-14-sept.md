@@ -81,7 +81,7 @@ sections:
           - type: Button
             label: Buy
             altText: ''
-            url: 'https://events.humanitix.com/public-money-mmt-sheffield/tickets'
+            url: 'https://events.humanitix.com/public-money-mmt-amsterdam/tickets'
             showIcon: true
             icon: arrowRight
             iconPosition: right
