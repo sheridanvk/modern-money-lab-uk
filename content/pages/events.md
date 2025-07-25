@@ -78,7 +78,7 @@ sections:
             elementId: ''
       - type: FeaturedItem
         title: 'Money, Government and the Public Interest'
-        subtitle: ''
+        subtitle: '14 September 2025, Amsterdam'
         text: >
           This workshop will empower participants to counter the common
           narrative that significant public interest investment is unaffordable
