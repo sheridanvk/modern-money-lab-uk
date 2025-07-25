@@ -41,9 +41,6 @@ sections:
 
       *   Professor Jaideep Pandit
 
-
-      </div>
-
     elementId: ''
     styles:
       self:
