@@ -116,7 +116,7 @@ sections:
           - type: Button
             label: Learn more
             altText: ''
-            url: /events/ams
+            url: /events/vienna-money-government-public-27-28-sept/
             showIcon: true
             icon: arrowRight
             iconPosition: right
