@@ -8,8 +8,8 @@ sections:
     variant: variant-a
     title: About Us
     subtitle: ''
-    text: >
-      <div style="text-align: left">Modern Money Lab UK are:
+    text: >+
+      <div style="text-align: left">Modern Money Lab UK are:</div>
 
 
       *   Susan Borden
@@ -28,6 +28,8 @@ sections:
 
       *   William Thomson
 
+      *   Tamsyn Widdon
+
 
       Our advisory board is:
 
@@ -41,6 +43,7 @@ sections:
 
 
       </div>
+
     elementId: ''
     styles:
       self:
