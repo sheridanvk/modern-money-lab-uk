@@ -27,7 +27,7 @@ sections:
           name: Last name
           label: Last name
           hideLabel: false
-          placeholder: Your name
+          placeholder: ''
           width: 1/2
           isRequired: false
       submitLabel: Sign Up
