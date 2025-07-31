@@ -7,7 +7,7 @@ sections:
     text: Join my newsletter to stay up-to-date
     form:
       type: FormBlock
-      title: Title of the form
+      title: Join our mailing list
       fields:
         - type: EmailFormControl
           name: email
