@@ -17,7 +17,7 @@ sections:
           width: full
           isRequired: 'true'
         - type: TextFormControl
-          name: lastname
+          name: firstname
           label: Last Name
           hideLabel: false
           placeholder: ''
