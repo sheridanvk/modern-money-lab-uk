@@ -20,7 +20,7 @@ sections:
           name: lastname
           label: Last Name
           hideLabel: false
-          placeholder: Your name
+          placeholder: ''
           width: 1/2
           isRequired: false
         - type: TextFormControl
