@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Events
+title: Sign Up
 sections:
   - type: TextSection
     colors: colors-f
