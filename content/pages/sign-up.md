@@ -9,13 +9,6 @@ sections:
       type: FormBlock
       title: Join our mailing list
       fields:
-        - type: EmailFormControl
-          name: email
-          label: First Name
-          hideLabel: false
-          placeholder: Your email
-          width: full
-          isRequired: 'true'
         - type: TextFormControl
           name: firstname
           label: First Name
@@ -30,6 +23,13 @@ sections:
           placeholder: ''
           width: 1/2
           isRequired: false
+        - type: EmailFormControl
+          name: email
+          label: First Name
+          hideLabel: false
+          placeholder: Your email
+          width: full
+          isRequired: 'true'
       submitLabel: Sign Up
       elementId: contact-form
       styles:
