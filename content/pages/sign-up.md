@@ -11,7 +11,7 @@ sections:
       fields:
         - type: EmailFormControl
           name: email
-          label: Name
+          label: First Name
           hideLabel: false
           placeholder: Your email
           width: full
