@@ -50,7 +50,7 @@ sections:
         alignItems: center
         justifyContent: center
         flexDirection: row
-        borderColor: border-complementary
+        borderColor: border-secondary
       title:
         textAlign: left
       text:
