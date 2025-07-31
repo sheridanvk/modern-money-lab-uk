@@ -16,6 +16,13 @@ sections:
           placeholder: Your email
           width: full
           isRequired: 'true'
+        - type: TextFormControl
+          name: Last Name
+          label: Name
+          hideLabel: false
+          placeholder: Your name
+          width: 1/2
+          isRequired: false
       submitLabel: Sign Up
       elementId: contact-form
       styles:
