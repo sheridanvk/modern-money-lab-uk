@@ -32,13 +32,15 @@ sections:
         title: The Anti-Austerity Conference
         subtitle: '12-13 September 2025, Bristol'
         text: >
-          This conference will debunk money myths to counter the common
-          narrative that significant public interest investment is unaffordable
-          or must be paid for by implementing austerity measures. Whether for
-          healthcare, employment, climate action or housing, you will come away
-          with a true understanding of how our government spends money, which is
-          constrained only by available resources and environmental
-          considerations.
+          For too long the solutions to our cost-of-living and environmental
+          crises have been held back by a misunderstanding of the freedom and
+          capacity the UK government has to fund these solutions.
+
+
+          Join us in Bristol to learn powerful, real, economic knowledge that
+          blows traditional thinking apart and allows social and environmental
+          goals to take centre stage. No prior knowledge is needed, this event
+          is highly accessible and open to all.
         actions:
           - type: Button
             label: More details
