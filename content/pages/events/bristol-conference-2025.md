@@ -117,8 +117,7 @@ sections:
           - type: Button
             label: Buy
             altText: ''
-            url: >-
-              https://gallusevents.thrivecart.com/anti-austerity-conference-saturday/
+            url: 'https://events.humanitix.com/anti-austerity-conference-bristol'
             showIcon: true
             icon: arrowRight
             iconPosition: right
