@@ -71,8 +71,7 @@ sections:
           - type: Button
             label: Buy
             altText: ''
-            url: >-
-              https://gallusevents.thrivecart.com/anti-austerity-conference-both-days/
+            url: 'https://events.humanitix.com/anti-austerity-conference-bristol'
             showIcon: true
             icon: arrowRight
             iconPosition: right
@@ -95,8 +94,7 @@ sections:
           - type: Button
             label: Buy
             altText: ''
-            url: >-
-              https://gallusevents.thrivecart.com/anti-austerity-conference-friday/
+            url: 'https://events.humanitix.com/anti-austerity-conference-bristol'
             showIcon: true
             icon: arrowRight
             iconPosition: right
@@ -119,8 +117,7 @@ sections:
           - type: Button
             label: Buy
             altText: ''
-            url: >-
-              https://gallusevents.thrivecart.com/anti-austerity-conference-saturday/
+            url: 'https://events.humanitix.com/anti-austerity-conference-bristol'
             showIcon: true
             icon: arrowRight
             iconPosition: right
