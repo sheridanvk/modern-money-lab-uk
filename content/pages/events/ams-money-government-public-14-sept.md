@@ -57,7 +57,7 @@ sections:
         title: General Admission
         subtitle: Full-price admission
         text: |
-          €35 + booking fee
+          €25 + booking fee
         actions:
           - type: Button
             label: Buy
@@ -95,7 +95,7 @@ sections:
         title: Concession
         subtitle: For anyone on a reduced income
         text: |
-          €20 + booking fee
+          Free
         actions:
           - type: Button
             label: Buy
