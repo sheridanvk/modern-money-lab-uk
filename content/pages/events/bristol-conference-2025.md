@@ -82,16 +82,7 @@ sections:
         subtitle: ''
         text: |
           Sold out!
-        actions:
-          - type: Button
-            label: Buy
-            altText: ''
-            url: 'https://events.humanitix.com/anti-austerity-conference-bristol'
-            showIcon: true
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
+        actions: []
         elementId: ''
         styles:
           self:
