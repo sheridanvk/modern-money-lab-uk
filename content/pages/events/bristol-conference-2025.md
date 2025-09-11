@@ -81,11 +81,7 @@ sections:
         title: Friday only
         subtitle: ''
         text: |
-          General admission £25
-
-          Solidarity £50
-
-          Concession £12.50
+          Sold out!
         actions:
           - type: Button
             label: Buy
