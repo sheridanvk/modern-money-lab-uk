@@ -60,11 +60,7 @@ sections:
         title: Both days
         subtitle: ''
         text: |
-          General admission £40
-
-          Solidarity £80
-
-          Concession £20
+          In-person: Sold out!
 
           Online £20
         actions:
