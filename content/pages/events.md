@@ -30,7 +30,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Finding the Money
-        subtitle: '21 November 2025, London (Camden)'
+        subtitle: '21 November 2025, 6:30-9:30pm, London (Camden)'
         text: >
           Join us for a screening of Finding the Money, a film
           by Maren Poitras, which explains why the national debt
