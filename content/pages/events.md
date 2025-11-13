@@ -26,6 +26,33 @@ sections:
       text:
         textAlign: left
   - type: FeaturedItemsSection
+    title: ''
+    items:
+      - type: FeaturedItem
+        title: Finding the Money
+        subtitle: '21 November 2025, London (Camden)'
+        text: >
+          Join us for a screening of Finding the Money, a film
+          by Maren Poitras, which explains why the national debt
+          is nothing to be afraid of, and the power we have when
+          we understand the potential of our public money.
+
+          Followed by a Q&A with Modern Money Lab's Sheridan Kates
+        actions:
+          - type: Button
+            label: Book your spot
+            altText: ''
+            url: https://www.eventbrite.co.uk/e/ecocounts-climate-film-series-presents-finding-the-money-with-qa-tickets-1739567004739
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+  - type: FeaturedItemsSection
     title: Past events
     items:
       - type: FeaturedItem

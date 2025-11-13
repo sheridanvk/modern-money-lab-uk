@@ -26,8 +26,6 @@ sections:
 
       *   Michèle Thole
 
-      *   William Thomson
-
       *   Tamsyn Widdon
 
 
