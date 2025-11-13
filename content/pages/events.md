@@ -52,6 +52,28 @@ sections:
         styles:
           self:
             textAlign: left
+    actions: []
+    colors: colors-d
+    columns: 2
+    spacingX: 16
+    spacingY: 16
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-8
+          - pb-8
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
   - type: FeaturedItemsSection
     title: Past events
     items:
